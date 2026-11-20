@@ -1,0 +1,626 @@
+[
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle royal",
+    "latin": "Aquila chrysaetos",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle de Bonelli",
+    "latin": "Aquila fasciata",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle botté",
+    "latin": "Hieraaetus pennatus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle ibérique",
+    "latin": "Aquila adalberti",
+    "region": "Europe"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle impérial",
+    "latin": "Aquila heliaca",
+    "region": "Europe"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle pomarin",
+    "latin": "Clanga pomarina",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle criard",
+    "latin": "Clanga clanga",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle des steppes",
+    "latin": "Aquila nipalensis",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle ravisseur",
+    "latin": "Aquila rapax",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle martial",
+    "latin": "Polemaetus bellicosus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle couronné",
+    "latin": "Stephanoaetus coronatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle de Verreaux",
+    "latin": "Aquila verreauxii",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle de Wahlberg",
+    "latin": "Hieraaetus wahlbergi",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle de Cassin",
+    "latin": "Aquila africana",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle huppard",
+    "latin": "Lophaetus occipitalis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle fascié",
+    "latin": "Aquila spilogaster",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Aigle pêcheur d’Afrique",
+    "latin": "Icthyophaga vocifer",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Pygargue à queue blanche",
+    "latin": "Haliaeetus albicilla",
+    "region": "Europe"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Balbuzard pêcheur",
+    "latin": "Pandion haliaetus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Bateleur des savanes",
+    "latin": "Terathopius ecaudatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Messager sagittaire",
+    "latin": "Sagittarius serpentarius",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète Jean-le-Blanc",
+    "latin": "Circaetus gallicus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète brun",
+    "latin": "Circaetus cinereus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète à poitrine noire",
+    "latin": "Circaetus pectoralis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète cendré",
+    "latin": "Circaetus cinerascens",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète à bandes",
+    "latin": "Circaetus fasciolatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Aigles & grands rapaces",
+    "name": "Circaète de Beaudouin",
+    "latin": "Circaetus beaudouini",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Gypaète barbu",
+    "latin": "Gypaetus barbatus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Percnoptère d’Égypte",
+    "latin": "Neophron percnopterus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour fauve",
+    "latin": "Gyps fulvus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour moine",
+    "latin": "Aegypius monachus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour de Rüppell",
+    "latin": "Gyps rueppelli",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour africain",
+    "latin": "Gyps africanus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour charognard",
+    "latin": "Necrosyrtes monachus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour oricou",
+    "latin": "Torgos tracheliotos",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour à tête blanche",
+    "latin": "Trigonoceps occipitalis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Vautours & gypaètes",
+    "name": "Vautour chassefiente",
+    "latin": "Gyps coprotheres",
+    "region": "Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Milan noir",
+    "latin": "Milvus migrans",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Milan royal",
+    "latin": "Milvus milvus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Milan à bec jaune",
+    "latin": "Milvus aegyptius",
+    "region": "Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Milan des chauves-souris",
+    "latin": "Macheiramphus alcinus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Élanion blanc",
+    "latin": "Elanus caeruleus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Élanion naucler",
+    "latin": "Chelictinia riocourii",
+    "region": "Afrique"
+  },
+  {
+    "group": "Milans & élanions",
+    "name": "Palmiste africain",
+    "latin": "Gypohierax angolensis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Bondrée apivore",
+    "latin": "Pernis apivorus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Bondrée orientale",
+    "latin": "Pernis ptilorhynchus",
+    "region": "Europe / rare"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse variable",
+    "latin": "Buteo buteo",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse féroce",
+    "latin": "Buteo rufinus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse pattue",
+    "latin": "Buteo lagopus",
+    "region": "Europe"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse des steppes",
+    "latin": "Buteo buteo vulpinus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse augure",
+    "latin": "Buteo augur",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse d’Archer",
+    "latin": "Buteo archeri",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse montagnarde",
+    "latin": "Buteo oreophilus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse à queue courte",
+    "latin": "Buteo brachyurus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse de forêt",
+    "latin": "Buteo trizonatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Buses & bondrées",
+    "name": "Buse de Swainson",
+    "latin": "Buteo swainsoni",
+    "region": "Afrique / rare"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier d’Europe",
+    "latin": "Accipiter nisus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier à pieds courts",
+    "latin": "Accipiter brevipes",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour des palombes",
+    "latin": "Astur gentilis",
+    "region": "Europe"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour sombre",
+    "latin": "Melierax metabates",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour chanteur",
+    "latin": "Melierax canorus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour à ailes grises",
+    "latin": "Melierax poliopterus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour unibande",
+    "latin": "Kaupifalco monogrammicus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour tachiro",
+    "latin": "Accipiter tachiro",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour noir",
+    "latin": "Astur melanoleucus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Autour de Toussenel",
+    "latin": "Accipiter toussenelii",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier shikra",
+    "latin": "Accipiter badius",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier minule",
+    "latin": "Accipiter minullus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier de l’Ovampo",
+    "latin": "Accipiter ovampensis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier à ventre roux",
+    "latin": "Accipiter rufiventris",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier à queue courte",
+    "latin": "Accipiter brachyurus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier de Frances",
+    "latin": "Accipiter francesiae",
+    "region": "Afrique"
+  },
+  {
+    "group": "Éperviers & autours",
+    "name": "Épervier de Madagascar",
+    "latin": "Accipiter madagascariensis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard des roseaux",
+    "latin": "Circus aeruginosus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard Saint-Martin",
+    "latin": "Circus cyaneus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard pâle",
+    "latin": "Circus macrourus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard cendré",
+    "latin": "Circus pygargus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard maure",
+    "latin": "Circus maurus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard grenouillard",
+    "latin": "Circus ranivorus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard de Madagascar",
+    "latin": "Circus macrosceles",
+    "region": "Afrique"
+  },
+  {
+    "group": "Busards",
+    "name": "Busard de la Réunion",
+    "latin": "Circus maillardi",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon pèlerin",
+    "latin": "Falco peregrinus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon lanier",
+    "latin": "Falco biarmicus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon crécerelle",
+    "latin": "Falco tinnunculus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon crécerellette",
+    "latin": "Falco naumanni",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon d’Éléonore",
+    "latin": "Falco eleonorae",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon hobereau",
+    "latin": "Falco subbuteo",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon émerillon",
+    "latin": "Falco columbarius",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon kobez",
+    "latin": "Falco vespertinus",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon sacre",
+    "latin": "Falco cherrug",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon gerfaut",
+    "latin": "Falco rusticolus",
+    "region": "Europe"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon concolore",
+    "latin": "Falco concolor",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon ardoisé",
+    "latin": "Falco ardosiaceus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon à ventre rayé",
+    "latin": "Falco zoniventris",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon de Dickinson",
+    "latin": "Falco dickinsoni",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon de Cuvier",
+    "latin": "Falco cuvierii",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon de l’Amour",
+    "latin": "Falco amurensis",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon de Barbarie",
+    "latin": "Falco pelegrinoides",
+    "region": "Europe/Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Faucon chicquera",
+    "latin": "Falco chicquera",
+    "region": "Afrique"
+  },
+  {
+    "group": "Faucons",
+    "name": "Fauconnet d’Afrique",
+    "latin": "Polihierax semitorquatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Autres rapaces diurnes",
+    "name": "Gymnogène d’Afrique",
+    "latin": "Polyboroides typus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Autres rapaces diurnes",
+    "name": "Gymnogène de Madagascar",
+    "latin": "Polyboroides radiatus",
+    "region": "Afrique"
+  },
+  {
+    "group": "Autres rapaces diurnes",
+    "name": "Baza coucou",
+    "latin": "Aviceda cuculoides",
+    "region": "Afrique"
+  },
+  {
+    "group": "Autres rapaces diurnes",
+    "name": "Baza malgache",
+    "latin": "Aviceda madagascariensis",
+    "region": "Afrique"
+  }
+]

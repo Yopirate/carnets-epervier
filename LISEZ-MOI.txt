@@ -1,0 +1,8 @@
+LES CARNETS DE L’ÉPERVIER — VERSION 1.2
+
+1) Essai sur ordinateur : extraire le ZIP et ouvrir index.html. Les observations sont sauvegardées localement dans le navigateur, mais le mode fichier ne garantit pas le même comportement sur tous les navigateurs.
+2) Géolocalisation : l'accès GPS depuis une page Web nécessite un contexte sécurisé (HTTPS ou localhost) et une autorisation de l'utilisateur ; un fichier local peut être limité ou bloqué selon le navigateur.
+3) Installation Samsung Galaxy S25 Ultra : pour installer la PWA il faut publier ENSEMBLE index.html, manifest.webmanifest, sw.js, icon-192.png et icon-512.png (et les autres fichiers) sur une origine HTTPS. Ouvrir ensuite le site dans Chrome et utiliser son menu Installer l’application / Ajouter à l’écran d’accueil.
+4) Les photos ne sont pas téléversées. Le stockage est local, sans synchronisation automatique entre appareils. Exporter régulièrement une sauvegarde JSON et l'importer sur l'autre appareil en cas de besoin.
+5) Le catalogue inclus est une sélection pratique de rapaces diurnes d'Europe et d'Afrique, non un inventaire taxonomique exhaustif ou une preuve de présence régionale. Il peut comporter des synonymes et des espèces occasionnelles.
+6) Les identifications historiques et les noms saisis librement restent reconnus lors de l'édition de fiches existantes.
