@@ -1,0 +1,8 @@
+MISE À JOUR DE L'ICÔNE — Carnets de l'Épervier v2.1
+1) Télécharger et extraire ce ZIP.
+2) Copier TOUS les fichiers directement dans le dossier local GitHub Desktop « carnets-epervier ».
+3) Accepter le remplacement de index.html, v2.css, sw.js, icon-192.png et icon-512.png.
+4) Dans GitHub Desktop : Commit to main, puis Push origin.
+5) Ouvrir https://yopirate.github.io/carnets-epervier/ et recharger avec Ctrl+F5.
+6) Pour mettre à jour l'icône d'une PWA déjà installée, la désinstaller puis la réinstaller si nécessaire.
+Aucun fichier eBird personnel ne doit être publié dans GitHub.
