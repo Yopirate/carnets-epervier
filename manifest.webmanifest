@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Les Carnets de l’Épervier — Observations",
+  "name": "Les Carnets de l’Épervier — Encyclopédie et observations",
   "short_name": "Épervier",
-  "description": "Carnet ornithologique personnel et catalogue de rapaces diurnes Europe et Afrique",
+  "description": "Atlas des rapaces, observations, cartes topographiques et bibliothèque personnelle",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
